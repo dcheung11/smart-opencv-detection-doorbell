@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "saki_doorbell",
+			"path": "."
+		},
+		{
+			"name": "dnn_model",
+			"path": "../../Downloads/dnn_model-220107-114215/dnn_model"
+		}
+	],
+	"settings": {}
+}
